@@ -12,7 +12,6 @@ TypeScript, renowned Component-based CSS/JavaScript UI frameworks.\
 **Version Control:** Git, Backlog, GitHub, Bitbucket.\
 **Dependency Manager:** Composer, NPM, NPX, Vite, Yarn.\
 **Additional Tools and Technologies:** RESTful APIs, GraphQL, WordPress, and MERN stack.\
-
 **Familiar Tech:** PHP, Swagger(YML), TSDoc, JSDoc, Responsive framework (Bootstrap, Tailwind CSS, Google Material Design,
 etc.), MUI, iView and MEVN stack.
 
