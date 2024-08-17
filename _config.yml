@@ -4,5 +4,5 @@ description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
 # Custom CSS file
-assets:
+#assets:
   #css: /assets/css/style.css
