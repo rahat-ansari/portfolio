@@ -4,21 +4,14 @@
 **Front-end and Back-end Development, and Bug fixation.**
 
 **Front-End Development:** Responsive UI Design, HTML, CSS, SCSS, JavaScript, JQuery, Vue.js, Vuex, React.js, ECMAScript,
-TypeScript, renowned Component-based CSS/JavaScript UI frameworks.
-
-**Back-End Development:** Laravel/Lumen, Next.js, Node.js.
-
-**Database Management:** MySQL, PostgreSQL, MongoDB.
-
-**Development Environment:** Windows, Linux (CentOS, Ubuntu, Amazon Linux 2).
-
-**Development Tools:** Vagrant, VirtualBox, Docker.
-
-**Version Control:** Git, Backlog, GitHub, Bitbucket.
-
-**Dependency Manager:** Composer, NPM, NPX, Vite, Yarn.
-
-**Additional Tools and Technologies:** RESTful APIs, GraphQL, WordPress, and MERN stack.
+TypeScript, renowned Component-based CSS/JavaScript UI frameworks.\
+**Back-End Development:** Laravel/Lumen, Next.js, Node.js.\
+**Database Management:** MySQL, PostgreSQL, MongoDB.\
+**Development Environment:** Windows, Linux (CentOS, Ubuntu, Amazon Linux 2).\
+**Development Tools:** Vagrant, VirtualBox, Docker.\
+**Version Control:** Git, Backlog, GitHub, Bitbucket.\
+**Dependency Manager:** Composer, NPM, NPX, Vite, Yarn.\
+**Additional Tools and Technologies:** RESTful APIs, GraphQL, WordPress, and MERN stack.\
 
 **Familiar Tech:** PHP, Swagger(YML), TSDoc, JSDoc, Responsive framework (Bootstrap, Tailwind CSS, Google Material Design,
 etc.), MUI, iView and MEVN stack.
@@ -61,5 +54,36 @@ etc.), MUI, iView and MEVN stack.
 - Experienced in Laravel and WordPress.
 
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+## Projects Archive
+
+<div class="projects-grid">
+  
+  <div class="project-card">
+    <h3>Project Name 1</h3>
+    <p>A brief description of the project, including the purpose, technologies used, and any notable features or outcomes.</p>
+    <p><strong>Key Technologies:</strong> HTML, CSS, JavaScript, React.js, Node.js</p>
+    <p><a href="https://github.com/username/project1">View on GitHub</a> | <a href="https://yourdomain.com/project1">Live Demo</a></p>
+  </div>
+  
+  <div class="project-card">
+    <h3>Project Name 2</h3>
+    <p>A brief description of the project, outlining the objectives and the key technical challenges that were solved.</p>
+    <p><strong>Key Technologies:</strong> Vue.js, Vuex, Laravel, MySQL</p>
+    <p><a href="https://github.com/username/project2">View on GitHub</a> | <a href="https://yourdomain.com/project2">Live Demo</a></p>
+  </div>
+
+  <div class="project-card">
+    <h3>Project Name 3</h3>
+    <p>A short summary that highlights the project’s impact, technologies used, and any special features implemented.</p>
+    <p><strong>Key Technologies:</strong> Python, Django, PostgreSQL</p>
+    <p><a href="https://github.com/username/project3">View on GitHub</a> | <a href="https://yourdomain.com/project3">Live Demo</a></p>
+  </div>
+
+  <!-- Add more project cards as needed -->
+
+</div>
+
+
+
+
+
