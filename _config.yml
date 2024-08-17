@@ -6,4 +6,4 @@ theme: jekyll-theme-minimal
 
 # Custom CSS file
 assets:
-  css: /assets/css/style.css
+  css: assets/css/style.css
