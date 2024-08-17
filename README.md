@@ -1,8 +1,9 @@
 # Software Engineer 
 
-#### Technical Skills: 
-**Front-end and Back-end Development, and Bug fixation.**
-
+### Technical Skills: 
+I have served as a Senior Software Engineer (Full Stack) at a Japanese multinational software firm for the past four years,
+accumulating over six years of professional experience.\
+**Responsibility:** Front-end and Back-end Development, and Bug fixation.\
 **Front-End Development:** Responsive UI Design, HTML, CSS, SCSS, JavaScript, JQuery, Vue.js, Vuex, React.js, ECMAScript,
 TypeScript, renowned Component-based CSS/JavaScript UI frameworks.\
 **Back-End Development:** Laravel/Lumen, Next.js, Node.js.\
@@ -28,7 +29,7 @@ etc.), MUI, iView and MEVN stack.
 - B.S. Computer Science and Engineering | sian University of Bangladesh (_May 2005_)
 
 ## Work Experience
-**Senior Software Engineer @ DreamOnline Ltd. a sister concern of DreamOnline, Inc (_October 2019 - Present_)**
+**Senior Software Engineer @ DreamOnline Ltd. a sister concern of DreamOnline, Inc (_October 2019 - Present_)**\
 **Front-End Development Expertise:**
 - Proficient in Responsive UI Design, utilizing HTML, CSS, and SCSS
 - Extensive experience with Vue.js, Vuex, React.js, JavaScript, ECMAScript, and TypeScript.
