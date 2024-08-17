@@ -5,21 +5,13 @@
 
 **Front-End Development:** Responsive UI Design, HTML, CSS, SCSS, JavaScript, JQuery, Vue.js, Vuex, React.js, ECMAScript,
 TypeScript, renowned Component-based CSS/JavaScript UI frameworks.
-
 **Back-End Development:** Laravel/Lumen, Next.js, Node.js.
-
 **Database Management:** MySQL, PostgreSQL, MongoDB.
-
 **Development Environment:** Windows, Linux (CentOS, Ubuntu, Amazon Linux 2).
-
 **Development Tools:** Vagrant, VirtualBox, Docker.
-
 **Version Control:** Git, Backlog, GitHub, Bitbucket.
-
 **Dependency Manager:** Composer, NPM, NPX, Vite, Yarn.
-
 **Additional Tools and Technologies:** RESTful APIs, GraphQL, WordPress, and MERN stack.
-
 **Familiar Tech:** PHP, Swagger(YML), TSDoc, JSDoc, Responsive framework (Bootstrap, Tailwind CSS, Google Material Design,
 etc.), MUI, iView and MEVN stack.
 
