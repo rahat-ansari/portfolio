@@ -1,6 +1,6 @@
 # Software Engineer 
 
-### Technical Skills: 
+## Technical Skills: 
 I have served as a Senior Software Engineer (Full Stack) at a Japanese multinational software firm for the past four years,
 accumulating over six years of professional experience.\
 **Responsibility:** Front-end and Back-end Development, and Bug fixation.\
@@ -24,11 +24,11 @@ etc.), MUI, iView and MEVN stack.
 - Experience in microcontroller programming on Hitachi H8/300 CPU using C++ for research purposes at Master Cours.
 
 
-## Education					       		
+## Education:					       		
 - M.S. Power Electronics | Tokyo Polytechnic University, Japan (_April 2009_)
 - B.S. Computer Science and Engineering | sian University of Bangladesh (_May 2005_)
 
-## Work Experience
+## Work Experience:
 **Senior Software Engineer @ DreamOnline Ltd. a sister concern of DreamOnline, Inc (_October 2019 - Present_)**\
 **Front-End Development Expertise:**
 - Proficient in Responsive UI Design, utilizing HTML, CSS, and SCSS
@@ -59,7 +59,7 @@ etc.), MUI, iView and MEVN stack.
 - Implement new features and address bug fixes in both new and existing projects.
 
 
-## Projects Archive
+## Projects Archive:
 
 #### Project Name: [tokisuki](https://lwt-dev.dreamonlinelimited.xyz)
 #### Project Description:
