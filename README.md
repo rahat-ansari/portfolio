@@ -61,8 +61,8 @@ etc.), MUI, iView and MEVN stack.
 
 ## Projects Archive
 
-### tokisuki
-#### Project Description
+#### Project Name: [tokisuki](https://lwt-dev.dreamonlinelimited.xyz)
+#### Project Description:
 An online platform dedicated to watches that integrates features of both flea markets and auctions. The platform aims to do more than just facilitate buying and selling; we strive to foster connections among watch enthusiasts through internal messaging and chat systems.
 
 **Key Technologies:** HTML, CSS, JavaScript, Vue.js, Vuex, Responsive UI, Laravel, PostgreSQL. 
@@ -73,8 +73,8 @@ An online platform dedicated to watches that integrates features of both flea ma
 
 ---
 
-### Calomama Online
-#### Project Description
+#### Project Name: [Calomama Online](https://health-guidance.jp)
+#### Project Description:
 Online Health Management Counseling and Guidance System. On the client side, the end-user can choose health programs and instructors, book schedules and interviews, get specific health guidance, generate reports, video counseling, and database chat systems.
 
 **Key Technologies:** HTML, CSS, JavaScript, Vue.js, Vuex, Responsive UI, Laravel, PostgreSQL. 
@@ -85,8 +85,8 @@ Online Health Management Counseling and Guidance System. On the client side, the
 
 ---
 
-### ebidyaloy
-#### Project Description
+#### Project Name: [ebidyaloy](https://ebidyaloy.com)
+#### Project Description:
 Develop and oversee a comprehensive, personalized virtual educational system. Registered third-party institutions can manage and create customized coaching content, live class facilities, and private tuition methods for their teachers and students.
 
 **Key Technologies:** Responsive UI, Tailwind CSS, Next.js, React.js, MongoDB.
