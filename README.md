@@ -39,7 +39,7 @@ etc.), MUI, iView and MEVN stack.
 - Experienced in Laravel/Lumen, Next.js, and Express.js frameworks.
 - Proficient in database systems including MySQL, PostgreSQL, and MongoDB, listed in order of expertise.
 
-**Current Responsibilities:**
+**Responsibilities:**
  - Conduct thorough Requirement Analysis to ensure project alignment.
  - Collaborate effectively as a team player in new or existing project development processes.
  - Implement new features and bug fixation in both new and existing projects.
@@ -52,6 +52,11 @@ etc.), MUI, iView and MEVN stack.
 
 **Back-End Development Skills:**
 - Experienced in Laravel and WordPress.
+
+**Responsibilities:**
+- PSD to responsive UI and functionalities.
+- SEO, Page Speed Optimization, and Digital Marketing (Web 2.0).
+- Implement new features and address bug fixes in both new and existing projects.
 
 
 ## Projects Archive
